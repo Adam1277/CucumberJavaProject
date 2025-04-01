@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/6313940c-57c6-4bb0-95e2-b88f10525575)
 
 # Cucumber Project
 
