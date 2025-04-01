@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/6313940c-57c6-4bb0-95e2-b88f10525575)
+
 # Cucumber Project
 
 This project showcases end-to-end test coverage and easy display with a given feature file. It aims to showcase multiple Selenium tests utilizing Behavior-Driven Development.
