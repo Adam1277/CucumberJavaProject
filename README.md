@@ -32,5 +32,5 @@ Both BDD and TDD are complementary and are used either for software behaviour te
      (Middle) Integration testing
      (Bottom) Unit tests - BDD
 
-At the bottom, we focus on unit-level tests, which are fast, reliable, and cheap to run. \n
-At the top, we have end-to-end application testing, which focuses on expensive but very high confidence in software behavior.
+- At the bottom, we focus on unit-level tests, which are fast, reliable, and cheap to run.
+- At the top, we have end-to-end application testing, which focuses on expensive but very high confidence in software behavior.
