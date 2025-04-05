@@ -23,7 +23,14 @@ TDD is another methodology that focuses on Red-Green-Refactor, which promotes:
 
 **Benefits**
 - Unit level test coverage
-- Very good code coverage
+- Excellent code coverage
 
-## These methods are complementary and are used either for software behaviour readability or unit level tests
+Both BDD and TDD are complementary and are used either for software behaviour testing and showcase or unit level tests
 
+## BDD vs TDD with the Testing Pyramid
+     (Top) End-to-end Testing - TDD
+     (Middle) Integration testing
+     (Bottom) Unit tests - BDD
+
+At the bottom, we focus on unit-level tests, which are fast, reliable, and cheap to run
+At the top, we have end-to-end application testing, which focuses on expensive but very high confidence in software behavior.
